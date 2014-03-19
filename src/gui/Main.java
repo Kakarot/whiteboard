@@ -17,7 +17,9 @@ import javax.swing.border.EtchedBorder;
 
 /**
  * Main launcher to start graphical user interface, run this file to see GUI
- * @authors Stephen Pardue, Ian Stainbrook, and James Ruiz
+ * @author Stephen Pardue
+ * @author Ian Stainbrook
+ * @author James Ruiz
  * @date March 19, 2014
  */
 
